@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zdxvgw.github.io/sitemap.html.gz
+Sitemap: https://zdxvgw.github.io/app/sitemap.html.gz
+Sitemap: https://zdxvgw.github.io/assets/sitemap.html.gz
+Sitemap: https://zdxvgw.github.io/css/sitemap.html.gz
+Sitemap: https://zdxvgw.github.io/includes/sitemap.html.gz
+Sitemap: https://zdxvgw.github.io/item/sitemap.html.gz
+Sitemap: https://zdxvgw.github.io/src/sitemap.html.gz
